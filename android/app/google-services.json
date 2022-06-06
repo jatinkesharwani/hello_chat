@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400473456326",
+    "project_id": "hello-chat-ddf21",
+    "storage_bucket": "hello-chat-ddf21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400473456326:android:4955448d013e8c2d1a61c7",
+        "android_client_info": {
+          "package_name": "com.example.hello_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400473456326-aai0s3i6a7sv96btfa043fa8q235diq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzk9Ve8APp-FwW25aZmFT8ZeD3Kp0IqQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400473456326-aai0s3i6a7sv96btfa043fa8q235diq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
