@@ -78,7 +78,7 @@ To deploy this project
 
 | Users Chats Screen  | Create Group Chat Demo |
 |:------:          |:---------------: |
-|![](https://github.com/jatinkesharwani/hello_chat/blob/a09834aaccb24ad00f2b5bb0308951f12aae290d/assets/readme%20images/users%20chats%20page.png)|![](https://github.com/jatinkesharwani/hello_chat/blob/a09834aaccb24ad00f2b5bb0308951f12aae290d/assets/readme%20images/users%20chats%20page.png)|
+|![](https://github.com/jatinkesharwani/hello_chat/blob/a09834aaccb24ad00f2b5bb0308951f12aae290d/assets/readme%20images/users%20chats%20page.png)|![](https://github.com/jatinkesharwani/hello_chat/blob/6c126b73f1273e0dcb01dd297218f95b683c26a5/assets/readme%20images/create%20group%20chats%20page.png)|
 
 
 
